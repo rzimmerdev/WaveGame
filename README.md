@@ -12,7 +12,8 @@ Files in the main folder -
 Project resources in the img folder;
 Main executable .exe file;
 
-Game currently in version 1.1
+Game currently in version 2.1
+Compiled version: 1.2
 
 Author :
 Rafael Zimmer.
